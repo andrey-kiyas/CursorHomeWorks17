@@ -1,0 +1,32 @@
+{
+    "index": "1",
+    "name": "Retsepty vkusnoy i poleznoy edy",
+    "category": "Dom",
+    "author": "Kakoyto Aftor",
+    "review": ["Ne vkusno (", "Dont like", "Poidyot!", "Spasibo!"],
+    "rate": 2
+}
+{
+    "index": "2",
+    "name": "Skazki Andersena",
+    "category": "Skazki",
+    "author": "Andersen",
+    "review": ["Klassnaya knizhka, budu zhdat prodolzhenia", "Ponravilas kniga", "Kruto! Spasibo!"],
+    "rate": 5
+}
+{
+    "index": "3",
+    "name": "Kak razobrat istrebitel orkov do boltikov",
+    "category": "Nauchnoe",
+    "author": "Stepan Bandera",
+    "review": ["Ya by pazobral, no gde ego vzyat", "Super, uzhe 6 shtuk razobral!"],
+    "rate": 3
+}
+{
+    "index": "4",
+    "name": "Dom, sad, ogorod",
+    "category": "Dom",
+    "author": "Lopatovskiy Grablya",
+    "review": ["Polezno..", "Kakaha!!!"],
+    "rate": 4
+}
